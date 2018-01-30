@@ -107,8 +107,8 @@ googleAnalytics = ""
       url = "blogs/who1"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "The ATFutures People"
+      subtitle = "Who Are We?"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
