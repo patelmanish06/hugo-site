@@ -172,7 +172,7 @@ googleAnalytics = ""
     email = "R.Lovelace@leeds.ac.uk"
 
     [[params.contact.email]]
-    title = "Email"
+    #title = "Email"
     email = "mark.padgham@email.com"
 
     #[[params.contact.phone]]
