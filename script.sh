@@ -10,6 +10,7 @@ hugo -d ../atfutures.github.io
 
 echo -e "\033[0;32mChanging to blog directory...\033[0m"
 cd ../atfutures.github.io
+git add blogs/* # add any new entries
 
 echo -e "\033[0;32mCommit and push the new build...\033[0m"
 git commit -am "New Blog Build (`date`)"

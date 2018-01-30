@@ -110,13 +110,13 @@ googleAnalytics = ""
       title = "The ATFutures People"
       subtitle = "Who Are We?"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/people"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Software"
+      subtitle = "Our Software"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/software"
 
     [[params.tiles.showcase]]
       title = "Etiam"
