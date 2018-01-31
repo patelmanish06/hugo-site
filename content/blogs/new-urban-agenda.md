@@ -7,7 +7,7 @@ draft: false
 
 ## ATFutures and the New Urban Agenda
 
-The aims of Active Travel Futures reflect and strive to meet the following
+The aims of Active Transport Futures reflect and strive to meet the following
 paragraphs from the [New Urban Agenda](http://habitat3.org/the-new-urban-agenda)
 document produced from the United Nations Habitat III Conference (Quito,
 Ecuador, 20 Oct 2016). Highlighting is ours, used to emphasis our particular
