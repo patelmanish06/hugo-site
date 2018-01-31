@@ -35,7 +35,7 @@ googleAnalytics = ""
   # Navigation Section
   [params.navigation]
     title = "ATFutures"
-    subtitle = "Active Travel Futures"
+    subtitle = "Active Transport Futures"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -76,10 +76,10 @@ googleAnalytics = ""
 
   # Banner section
   [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # To change the background image on the homepage banner, replace 'Banner.jpg' in
     # the 'static/img' folder.
-    title = "Active Travel Futures"
-    subtitle = "Globally scalable software to aid cities to plan futures in which\nactive travel plays an increasingly prominent role."
+    title = "Active Transport Futures"
+    subtitle = "Globally scalable software to aid cities to plan futures in which\nactive transport plays an increasingly prominent role."
     buttonText = "More Information"
 
 
