@@ -119,10 +119,10 @@ googleAnalytics = ""
       url = "blogs/software"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Data"
+      subtitle = "The Data We Use"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/data"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -162,7 +162,7 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
+    formEmail = "mark.padgham@email.com"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
