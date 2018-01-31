@@ -136,17 +136,16 @@ googleAnalytics = ""
   [params.two]
     enable = true
     title = "Context"
-    subtitle = "Why Active Transport Futures?"
+    subtitle = """Why Active Transport Futures?
     Transport planning software was originally designed to plan for motorised transport.
     The latest scientific evidence shows that this type of planning is no longer sustainable.
     From a health perspective over-reliance on motor vehicles is damaging, an issue that
     planning for active transport can address by making physical activity part of everyday life.
     Active transport also helps cities address related issues of road traffic deaths,
-    greenhouse gas emissions targets and air pollution.
+    greenhouse gas emissions targets and air pollution."""
     buttonText = "Get Started"
     url = "blogs"
-
-
+    
   # Contact section
   [params.contact]
     enable = true
