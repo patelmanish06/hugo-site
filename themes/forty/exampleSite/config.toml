@@ -135,12 +135,19 @@ googleAnalytics = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "Context"
+    subtitle = "Why Active Transport Futures?"
+    Transport planning software was originally designed to plan for motorised transport,
+    rapid growth in private car ownership and use in particular
+    (Boyce and Williams, [2015](https://www.e-elgar.com/shop/forecasting-urban-travel)).
+    The latest scientific evidence shows that this type of planning is no longer sustainable.
+    From a **health perspective** over-reliance on motor vehicles is damaging:
+    active transport can transform lives by making physical activity part of everyday life
+    (Celis-Morales et al., [2017](http://www.bmj.com/content/357/bmj.j1456)).
+    Furthermore, motorised transport is inefficient, typically expending more energy moving the 
+    vehicle than its passengers.
+    Active transport can help cities address related issues of road traffic deaths,
+    greenhouse gas emissions targets and air pollution.
     buttonText = "Get Started"
     url = "blogs"
 
