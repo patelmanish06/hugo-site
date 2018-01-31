@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeleting old site...\033[0m"
 rm -rf public
 
 echo -e "\033[0;32mRunning hugo...\033[0m"
-hugo -d ../atfutures.github.io
+hugo --gc --ignoreCache -d ../atfutures.github.io
 
 echo -e "\033[0;32mChanging to blog directory...\033[0m"
 cd ../atfutures.github.io
