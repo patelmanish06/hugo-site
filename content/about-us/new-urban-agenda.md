@@ -1,5 +1,13 @@
 ---
 title: "New Urban Agenda"
+description: ""
+slug: "new-urban-agenda"
+image: ""
+keywords: ""
+categories:
+    - "New Urban Agenda"
+    - "United Nations"
+    - ""
 date: 2018-01-30T12:02:10+01:00
 draft: false
 ---

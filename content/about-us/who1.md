@@ -1,5 +1,13 @@
 ---
 title: "Prototype Tool for the World Health Organization"
+description: ""
+slug: "who1"
+image: ""
+keywords: ""
+categories:
+    - "World Health Organization"
+    - "Projects"
+    - ""
 date: 2018-01-30T12:12:10+01:00
 draft: false
 ---

@@ -1,5 +1,12 @@
 ---
 title: "People"
+description: ""
+slug: "people"
+image: ""
+keywords: ""
+categories:
+    - "People"
+    - ""
 date: 2018-01-30T16:32:59+01:00
 draft: false
 ---

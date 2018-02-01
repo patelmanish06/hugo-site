@@ -16,8 +16,8 @@ googleAnalytics = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Active Transport Futures"
+  description = "global scale open source software for planning urban futures for active transport"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -45,16 +45,20 @@ googleAnalytics = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "About Us"
+      url = "about-us"
+
+    [[params.navigation.links]]
+      name = "Blog"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+    #[[params.navigation.links]]
+    #  name = "Generic Blog"
+    #  url = "blogs/ipsum"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+    #[[params.navigation.links]]
+    #  name = "Elements"
+    #  url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -66,12 +70,12 @@ googleAnalytics = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "Get Started"
-      url = "blogs"
+      url = "about-us"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #[[params.navigation.button2]]
+    #  name = "Log In"
+    #  url = "#"
 
 
   # Banner section
@@ -92,40 +96,40 @@ googleAnalytics = ""
       title = "The ATFutures Project"
       subtitle = "What is ATFutures?"
       image = "pic01.jpg"
-      url = "blogs/atf"
+      url = "about-us/atf"
 
     [[params.tiles.showcase]]
       title = "World Health Organization"
       subtitle = "Our prototype tool for the World Health Organziation"
       image = "pic03.jpg"
-      url = "blogs/who1"
+      url = "about-us/who1"
 
     [[params.tiles.showcase]]
       title = "Software"
       subtitle = "Our Software"
       image = "thessaloniki.jpg"
-      url = "blogs/software"
+      url = "about-us/software"
 
     [[params.tiles.showcase]]
       title = "Data"
       subtitle = "The Data We Use"
       image = "pic06.jpg"
-      url = "blogs/data"
+      url = "about-us/data"
 
     [[params.tiles.showcase]]
       title = "ATFutures People"
       subtitle = "Who Are We?"
       image = "robin-mark.jpg"
-      url = "blogs/people"
+      url = "about-us/people"
 
     [[params.tiles.showcase]]
       title = "The New Urban Agenda"
       subtitle = "United Nations Habitat III Conference (Quito, Ecuador, 20 Oct 2016)"
       image = "pic02.jpg"
-      url = "blogs/new-urban-agenda"
+      url = "about-us/new-urban-agenda"
     # You can make more showcases by copy and pasting the code above
 
-  [params.blog]
+  [params.about-us]
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
     # at the root of this Hugo site.
@@ -144,7 +148,7 @@ googleAnalytics = ""
     Active transport also helps cities address related issues of road traffic deaths,
     greenhouse gas emissions targets and air pollution."""
     buttonText = "Get Started"
-    url = "blogs"
+    url = "about-us"
     
   # Contact section
   [params.contact]

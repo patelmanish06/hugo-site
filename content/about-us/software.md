@@ -1,5 +1,12 @@
 ---
 title: "Software"
+description: ""
+slug: "software"
+image: ""
+keywords: ""
+categories:
+    - "Software"
+    - ""
 date: 2018-01-30T16:33:06+01:00
 draft: false
 ---
