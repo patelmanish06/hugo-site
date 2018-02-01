@@ -14,12 +14,15 @@ draft: false
 Active Transport Futures develops and provides globally scalable software to aid
 cities to plan futures in which active transport such as walking and cycling play
 increasingly prominent roles. Our tools use open sources of data with global
-coverage and aim to be globally applicable independent of the availability of
-local data.
+coverage, and can be minimally implemented independent of the availability of
+local data. Where no local data are available, tools are calibrated using global
+data sets (see [Data](../data)); locally provided data can readily be
+implemented to ensure appropriate calibration to local needs and behaviours.
 
-This work is currently being developed in conjunction with the World Health
-Organization, for which we are developing a [prototype tool](../who1) to aid planning
-active transport futures in Accra, Ghana, and Kathmandu, Nepal.
+A major focus of current work is a project being conducted in conjunction with
+the World Health Organization, for which we are developing a [prototype
+tool](../who1) to aid planning active transport futures in Accra, Ghana, and
+Kathmandu, Nepal.
 
 Our primary source of data is [Open Street Map](https://openstreetmap.org),
 accessed via our own [**R** package

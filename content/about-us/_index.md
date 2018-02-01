@@ -2,7 +2,7 @@
 title: "About Us"
 description: ""
 slug: "about-us"
-image: ""
+image: "robin-mark.jpg"
 keywords: ""
 categories:
     - "about us"
