@@ -11,8 +11,6 @@ date: 2018-01-30T16:32:59+01:00
 draft: false
 ---
 
-![](about-us/robin-mark.jpg)
-
 Active Transport Futures is, from left to right in the picture,
 
 Mark Padgham of the Department of Geoinformatics at the University of Salzburg,

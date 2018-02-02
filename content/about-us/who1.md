@@ -2,7 +2,7 @@
 title: "Prototype Tool for the World Health Organization"
 description: ""
 slug: "who1"
-image: ""
+image: "accra-flows.jpg"
 keywords: ""
 categories:
     - "World Health Organization"
