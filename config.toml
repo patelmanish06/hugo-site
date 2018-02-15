@@ -83,7 +83,7 @@ googleAnalytics = ""
     # To change the background image on the homepage banner, replace 'Banner.jpg' in
     # the 'static/img' folder.
     title = "Active Transport Futures"
-    subtitle = "Globally scalable, open-source software using open data to plan urban futures in which active transport plays an increasingly prominent role."
+    subtitle = "Globally scalable, open-source tools using open data to plan urban futures in which active transport plays an increasingly prominent role. Our tools are used by the World Health Organization, and enable highly detailed, city-wide estimation of current transport patterns; estimation of response to planned modifications to tranport infrastructure; and conversion of responses into aggregate health and economic terms."
     buttonText = "More Information"
 
 
@@ -93,10 +93,10 @@ googleAnalytics = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "The ATFutures Project"
-      subtitle = "What is ATFutures?"
+      title = "The ATFutures Toolkit"
+      subtitle = "Our modular toolkit for planning and monitoring Active Transport Futures"
       image = "pic01.jpg"
-      url = "about-us/atf"
+      url = "about-us/atft"
 
     [[params.tiles.showcase]]
       title = "World Health Organization"
