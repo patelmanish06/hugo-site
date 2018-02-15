@@ -2,7 +2,7 @@
 title: "People"
 description: ""
 slug: "people"
-image: "robin-mark.jpg"
+image: ""
 keywords: ""
 categories:
     - "People"
@@ -12,6 +12,8 @@ draft: false
 ---
 
 Active Transport Futures is, from left to right in the picture,
+
+<img src="/img/robin-mark.jpg" alt="Drawing" style="width: 20%;"/>
 
 Mark Padgham of the Department of Geoinformatics at the University of Salzburg,
 Austria.
