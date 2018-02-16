@@ -105,6 +105,18 @@ googleAnalytics = ""
       url = "about-us/who1"
 
     [[params.tiles.showcase]]
+      title = "The Propensity to Cycle Tool (PCT)"
+      subtitle = "The United Kingdom PCT and the Cycling Infrastructure Prioritization Toolkit"
+      image = "pic02.jpg"
+      url = "about-us/pct"
+
+    [[params.tiles.showcase]]
+      title = "ATFutures People"
+      subtitle = "Who Are We?"
+      image = "robin-mark.jpg"
+      url = "about-us/people"
+
+    [[params.tiles.showcase]]
       title = "Software"
       subtitle = "Our Software"
       image = "thessaloniki.jpg"
@@ -116,17 +128,6 @@ googleAnalytics = ""
       image = "pic06.jpg"
       url = "about-us/data"
 
-    [[params.tiles.showcase]]
-      title = "ATFutures People"
-      subtitle = "Who Are We?"
-      image = "robin-mark.jpg"
-      url = "about-us/people"
-
-    [[params.tiles.showcase]]
-      title = "The New Urban Agenda"
-      subtitle = "United Nations Habitat III Conference (Quito, Ecuador, 20 Oct 2016)"
-      image = "pic02.jpg"
-      url = "about-us/new-urban-agenda"
     # You can make more showcases by copy and pasting the code above
 
   [params.about-us]

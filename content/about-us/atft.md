@@ -7,7 +7,6 @@ keywords: ""
 categories:
     - "ATF"
     - ""
-date: 2018-01-30T11:56:58+01:00
 draft: false
 ---
 

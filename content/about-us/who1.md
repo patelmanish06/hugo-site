@@ -8,7 +8,6 @@ categories:
     - "World Health Organization"
     - "Projects"
     - ""
-date: 2018-01-30T12:12:10+01:00
 draft: false
 ---
 
