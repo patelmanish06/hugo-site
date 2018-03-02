@@ -49,6 +49,10 @@ googleAnalytics = ""
       url = "about-us"
 
     [[params.navigation.links]]
+      name = "Events"
+      url = "events"
+
+    [[params.navigation.links]]
       name = "Blog"
       url = "blogs"
 
