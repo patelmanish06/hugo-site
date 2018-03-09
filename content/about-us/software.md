@@ -26,3 +26,7 @@ Our primary software tools are developed as modular **R** packages, including:
    `dodgr` converts population densities, trip matrices, or origin-destination
    data into aggregate densities routed along a street network optimised for 
    particular modes of transport. And it does so extremely quickly.
+3. An extension to the `dodgr` package, `m4ra` (many-to-many, multi-modal
+   routing aggregator), specifically designed to aggregate collective travel
+   patterns across multiple transport modes throughout entire cities. (Currently
+   in development.)

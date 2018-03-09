@@ -88,6 +88,18 @@ application will likely require these aggregate flows to be translated into one
 or more metrics of unique local relevance, such as:
 
 1. Aggregated absolute or relative numbers of individuals travelling throughout
-   a city.
+   a city;
+2. Equivalent measures for distinct demographic or other social groups;
+3. Translation of these numbers into health and/or economic metrics via the
+   WHO's [Health Economic Assessment Tool
+   (HEAT)](http://heatwalkingcycling.org/#homepage).
+
+The Toolkit is designed to quantify the response of any chosen metric to
+proposed modifications to a city's transport network, or other potential
+modifications affecting collective transport behaviour. It can also analyse and
+compare potential modifications which translate into the greatest net benefit in
+terms of one or more selected metrics. Importantly, such modificatons can also
+include the addition of new infrastructure such as the insertion of new connections
+between previously disconnected network segments.
 
 
