@@ -19,8 +19,8 @@ can be calibrated using global data sets (see [Data](../data)); locally provided
 data can readily be incorporated at any stage to enhance or ensure calibration
 to local needs and behaviours. The toolkit is largely being developed as part of
 a larger World Health Organization project, for which we are developing a
-[prototype tool](../who1) to aid planning active transport futures in Accra,
-Ghana, and Kathmandu, Nepal.
+[prototype tool](http://35.233.61.182) to aid planning active transport futures
+in Accra, Ghana, and Kathmandu, Nepal.
 
 ## Modularity
 
